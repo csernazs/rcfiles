@@ -7,3 +7,9 @@
 	excludesfile = /home/zsolt/.gitignore_global
 [push]
 	default = matching
+[alias]
+        br = branch
+	co = checkout
+	cl = clone
+	
+	
