@@ -1,0 +1,9 @@
+[user]
+	name = Zsolt Cserna
+	email = cserna.zsolt@gmail.com
+[credential]
+	helper = cache --timeout=3600
+[core]
+	excludesfile = /home/zsolt/.gitignore_global
+[push]
+	default = matching
