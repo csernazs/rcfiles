@@ -11,5 +11,6 @@
         br = branch
 	co = checkout
 	cl = clone
+	st = status
 	
 	
