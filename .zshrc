@@ -93,3 +93,4 @@ unset LC_IDENTIFICATION
 
 
 alias apt-get=apt
+alias ff="find . -name "
