@@ -90,3 +90,6 @@ unset LC_ADDRESS
 unset LC_TELEPHONE
 unset LC_MEASUREMENT
 unset LC_IDENTIFICATION
+
+
+alias apt-get=apt
