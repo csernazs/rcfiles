@@ -81,6 +81,8 @@ export PATH="/home/zsolt/bin:/home/zsolt/.local/bin:/usr/local/sbin:/usr/local/b
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export TIMEFMT=$'\nreal\t%E\nuser\t%U\nsys\t%S'
+export EDITOR=joe
+
 unset LC_NUMERIC
 unset LC_TIME
 unset LC_MONETARY
