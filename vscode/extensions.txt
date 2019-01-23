@@ -1,0 +1,15 @@
+AndrsDC.base16-themes
+austin.code-gnu-global
+Cameron.vscode-pytest
+daylerees.rainglow
+ecmel.vscode-html-css
+formulahendry.auto-rename-tag
+hbenl.vscode-test-explorer
+humao.rest-client
+littlefoxteam.vscode-python-test-adapter
+ms-python.python
+ms-vscode.cpptools
+ms-vscode.Go
+ryanluker.vscode-coverage-gutters
+searKing.preview-vscode
+streetsidesoftware.code-spell-checker
